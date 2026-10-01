@@ -2,22 +2,7 @@
 
 > An AI-powered full-stack web app that lets signed-in users generate content with AI, save it to their personal library, and optionally publish it for others to see and like.
 
-<!-- TODO: replace "Project Name" and the tagline above with your project's real name and a one-line description. -->
 
-## Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-  - [1. Set up external services](#1-set-up-external-services)
-  - [2. Run the server](#2-run-the-server)
-  - [3. Run the client](#3-run-the-client)
-- [Deployment](#deployment)
-- [Video Tutorials](#video-tutorials)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
